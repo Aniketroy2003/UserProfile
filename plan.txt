@@ -1,0 +1,11 @@
+=> all schemas are present in discord server named #database-report
+
+=> chat app is to be on hold so dont register it on settings.py
+
+=> the order would be---------------posts > profile > fir baadme dekhenge
+
+
+
+-----------> admin panel credentials---------------
+---> username: lepses
+----> password: lepses
